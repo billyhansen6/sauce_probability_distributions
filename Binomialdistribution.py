@@ -163,4 +163,4 @@ class Binomial(Distribution):
 
         """
 
-        return "Mean: {}, Standard Deviation: {}, p: {}, n: {}.".format(self.mean, self.stdev, self.p, self.n)
+        return "Mean: {}, Standard Deviation: {}, p: {}, n: {}.".format(self.mean, round(self.stdev), self.p, self.n)
