@@ -30,7 +30,14 @@ the probability of a specific outcome, and plotting the probabilities of all pos
 The primary scripts are the Generaldistribution.py, Gaussiandistribution.py and
 Binomialdistribution.py. 
 
+To Import this package in python use: <pre><code>pip install sauce_probability
+</code></pre>
 
+You can find this package on pypi at https://pypi.org/project/sauce-probability/0.1/
+
+The sample text files can be used as sample data for the gaussian and binomial classes.
+
+numbers.txt can be used for the Gaussian class, and numbers_binomial.txt for the binomial class.
 
 ### Licensing, Authors, Acknowledgments, etc.
 
